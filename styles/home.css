@@ -1,0 +1,42 @@
+@media (min-width: 768px) {
+.my-custom-container{
+    width:950px;
+    background-color: white;
+    height: 90%;
+    
+}}
+
+.login{
+  -moz-appearance: none;
+    -webkit-appearance: none;
+	 float : right; width : 25%; height : 190px; border: 2px solid #8B008B ; 
+	 margin-top: 3%; margin-right: 3%;font:600 14px/16px 'Open Sans',sans-serif;
+}
+
+.homephp{
+	font:600 14px/16px 'Open Sans',sans-serif;
+	width:70%;
+}
+
+a{
+ font-size:15px;
+}
+
+button
+{
+    background: grey;
+    color : white;
+     font-size: 15px;
+      border-radius: 35px;
+      width: 10em;
+      height: 3em;
+      position:relative;
+      margin-left : 25px;
+}
+
+.footer{
+  height: 5%;
+  background-color: #B0B0B0;
+  width: 950px;
+  margin-left:13%;
+}
